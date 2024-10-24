@@ -1,6 +1,5 @@
 import React from 'react';
 import Quiz from '../../client/src/components/Quiz';
-import { getQuestions } from '../../client/src/services/questionApi';
 
 const mockQuestions = [
   {
